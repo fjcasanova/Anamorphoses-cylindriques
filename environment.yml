@@ -1,8 +1,7 @@
-name: Raytracing
+name: Anamorphoses Cylindriques
 channels:
   - conda-forge
 dependencies:
   - numpy
-  - matplotlib
-  - sympy
+  - PIL
   - notebook
